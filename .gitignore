@@ -1,0 +1,5 @@
+# VSCode configuration files
+.vscode
+
+# Node/Yarn packages
+/node_modules
