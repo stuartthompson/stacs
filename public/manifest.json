@@ -1,0 +1,6 @@
+{
+    "short_name": "STACS",
+    "name": "Stu Thompson's Awesome Content System",
+    "start_url": ".",
+    "display": "standalone"
+}
