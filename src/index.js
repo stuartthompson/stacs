@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Site from './Site';
 import * as serviceWorker from './serviceWorker';
 
 /**
- * Renders the root of the application.
+ * Renders the root of the website.
  */
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Site />, document.getElementById('root'));
 
 serviceWorker.unregister();
